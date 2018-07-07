@@ -1,4 +1,5 @@
-# WinAMP-2.0
+# Audio Player
 
-So the idea was to create my own audio player...  
-but I failed ):
+## Goal
+
+The goal of the project is to build my own audio player using C++ as the main programming language. I believe I could implement two version: lightweight and heavyweight. The first one is terminal - based solution, and the second one - windowed application.
